@@ -18,6 +18,6 @@ public class Gerente extends Funcionario {
 
   @Override
   public double calcularBeneficio(int ano, int mes) {
-    return 0.0; // Gerentes não têm benefícios
+    return 0.0;
   }
 }
